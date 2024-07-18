@@ -5,3 +5,4 @@ Step 1:
 Create One To Many Database using any Database management tool like MySQL,Oracle etc.
 
 Step 2:
+Using mvnrepository.com Copy the Dependencies mentioned in pom.xml file 
