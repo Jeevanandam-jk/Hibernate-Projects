@@ -1,3 +1,3 @@
 # Hibernate-Projects
 
-This repository contains Hibernate projects using Eclipse
+This repository contains Hibernate based projects using Eclipse
